@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
+   </head>
+<body>
+  <nav>
+    <div class="menu">
+      <div class="logo">
+        <a href="#">Tourism</a>
+      </div>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Contact</a></li>
+        <li><a href="#">Feedback</a></li>
+      </ul>
+    </div>
+  </nav>
+  <div class="img"></div>
+  <div class="center">
+    <div class="title">Let's Tour to Live</div>
+	<hr>
+    <br>
+ 
+	  <h3 style="color:white;"> “Certainly, travel is more than the seeing of sights; it is a change that goes on, <br>deep and permanent, in the ideas of living.”</h3>
+	  <br>
+	 <h2 style="color:yellow;">“You don’t have to be rich to travel well.”</h2>
+	 <br>
+	 <p style="color:white;">Let grab the tickets fast for an exciting cashback!!!!</p>
+  </div>
+</body>
+</html>
+
+
+
+
+
